@@ -1,0 +1,3 @@
+C:\Users\erick\source\repos\PV2doParcial\PV2doParcial\obj\Debug\netcoreapp3.0\PV2doParcial.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\PV2doParcial\PV2doParcial\obj\Debug\netcoreapp3.0\PV2doParcial.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\PV2doParcial\PV2doParcial\obj\Debug\netcoreapp3.0\PV2doParcial.AssemblyInfo.cs
