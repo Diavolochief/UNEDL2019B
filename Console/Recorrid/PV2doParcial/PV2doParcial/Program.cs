@@ -9,18 +9,18 @@ namespace PV2doParcial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ingresa la ecuacion ");//pide ingresa de datos 
-            String s = Console.ReadLine();//pedimos ingresardatos
-            Stack paretnesis = new Stack();//arraylist que comparara
-            for (int i = 0; i < s.Length; ++i)
-            {//lee el arreglos
-                if ((s[i] == '(') || (s[i] == '{') || (s[i] == '['))
-                {//comparamos las llaves
-                    paretnesis.Push(s[i]);//coloca el iterador al final de la pila
+            Console.WriteLine("ingresa la ecuacion "); 
+            String var1 = Console.ReadLine();
+            Stack paretnesis = new Stack();
+            for (int i = 0; i < var1.Length; ++i)
+            {
+                if ((var1[i] == '(') || (var1[i] == '{') || (var1[i] == '[')) 
+                {
+                    paretnesis.Push(var1[i]);//coloca el iterador al final de la pila
                 }
                 else if (paretnesis.Count > 0)
                 {//entonces si el parentesis esta vacio es falso
-                    switch (s[i])
+                    switch (var1[i])
                     {//switch case con el iterador del array
                         case ']'://caso ]
 
