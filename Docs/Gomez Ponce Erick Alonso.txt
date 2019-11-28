@@ -1,0 +1,51 @@
+		Gomez Ponce Erick Alonso  27/11/19
+
+	           1. Describa en sus propias palabras el concepto de colecciones (collections) y cuales tipos existen.
+                   R: Son objetos que ayudan al manejo y la manipoulación de variables y objetos.
+               
+                2. Defina a que se refiere el concepto de código no seguro y que se necesita para implementarlo.
+                    R: Es una forma de llamar al codigo cuando se espera tener errores, se suele implementar cuando hacemos uso de apuntadores.
+
+                3. Mencione al menos tres clases que se utilizan en I/O y proporcione brevemente la idea central de las mismas.
+                    R: FileStream: Lee y escribe bytes de datos desde y A un archivo.
+                       MemoryStream: Lee y escribe datos desde y a la memoria.
+                       PipeStream: Lee y escribe datos desde y hacia los threads.
+
+                4. Explique la diferencia entre los siguientes códigos en csharp
+                    a. Console.Writeline ("resultado: (*ptr) ").
+                            En este se imprime la variable que llega solamente.
+                    b. Console.WriteLine("resultado: ((int)ptr)")
+                            En este antes de imrpimir lo castamos para que nos convierta en valor a entero.
+
+                5. Mencione al menos tres caracteristicas de las excepciones (Exceptions).
+                    R: Es un evento inesperado en programa, Se representan mediante clases, Se utilizan instrucciones como try y catch.
+
+                6. En Java, mencione y describa los tres tipos de excepciones.
+                    R: System.IO.IOException: Es cuando existe un error de entrada y salida de datos.
+                       System.DivideByZeroException: Es cuando dividimos un valor entre 0.
+                       System.StackOverflowException: Es cuando existe un desbordamiento de pila.
+
+                7. Explique brevemente a que se refiere con directivas para preprocesador y que se necesita para usarlas.
+                    R: Es una instruccion que le enviamos al compialdro para que rocese una iformacion antes de compilar el programa,
+                    por ejemplo una constante es un valor que permane igual en todo el código.
+
+                8. Explique las diferencias entre ArrayList, Sorted List Hash Table.
+                    R: ArrayList:  Es un arreglo, pero en este no debe especificarse el tamaño, ya que se acumula conforme reciba valores.
+                       SortedList: Es una tabla que contiene un valor y  acomoda de manera ascendente.
+                       HashTable: Es igual que el SortedList, pero este no los acomoda de manera ascendente, se accede a los datos atraves de la llave.
+
+                9. Describa para que sirven StreamReader y StreamWriter
+                    R: StreamReader clase que ayudan a la lectura 
+		       Stream Writer para escritura, convierte bytes en caracteres y viseversa.
+
+                10. Explique el funcionamiento del algoritmo Quicksort
+                    R: Es un algoritmo que nos ayuda al acomodo o representaciónded datos, este comienza con un pivote y
+                       apartir de este separa la lista en dos partes, acomoda a la derecha los mayores y a la izquierda los menores.
+
+                11. En Java, explique cuál es la diferencia entre System.out, System.in y System.err
+                    R:  System.out: Es para la salida estandar de datos.
+        	        System.in: Es para el ingreso de datos.
+ 			System.err: es para la salida de errores.
+
+                12. Explique cuáles son las ventajas de utilizar "generic collections"
+                    R: Las funcionalidades propias que los no genericos
