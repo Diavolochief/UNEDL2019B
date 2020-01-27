@@ -1,0 +1,11 @@
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\bin\Debug\netcoreapp3.1\ExamenTOTALIZADOR.exe
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\bin\Debug\netcoreapp3.1\ExamenTOTALIZADOR.deps.json
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\bin\Debug\netcoreapp3.1\ExamenTOTALIZADOR.runtimeconfig.json
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\bin\Debug\netcoreapp3.1\ExamenTOTALIZADOR.runtimeconfig.dev.json
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\bin\Debug\netcoreapp3.1\ExamenTOTALIZADOR.dll
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\bin\Debug\netcoreapp3.1\ExamenTOTALIZADOR.pdb
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\obj\Debug\netcoreapp3.1\ExamenTOTALIZADOR.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\obj\Debug\netcoreapp3.1\ExamenTOTALIZADOR.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\obj\Debug\netcoreapp3.1\ExamenTOTALIZADOR.AssemblyInfo.cs
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\obj\Debug\netcoreapp3.1\ExamenTOTALIZADOR.dll
+C:\Users\erick\source\repos\ExamenTOTALIZADOR\ExamenTOTALIZADOR\obj\Debug\netcoreapp3.1\ExamenTOTALIZADOR.pdb
